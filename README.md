@@ -4,7 +4,7 @@ A visually appealing and responsive food ordering website built using **HTML**, 
 
 ## 🚀 Live Demo
 
-🔗 [Check it Live](https://chiragbhoi01.github.io/Food-Website/)
+🔗 [Check it Live](https://chirag-dilpunjabi.netlify.app)
 
 ## 🛠️ Features
 
